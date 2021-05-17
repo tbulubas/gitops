@@ -13,6 +13,7 @@ https://docs.ortelius.io/guides/contributorguide/things-to-know/things-to-know/#
 
 # Contributors
 * Brad McCoy ([@bradmccoydev](https://github.com/bradmccoydev))
+* Taras Bulubas ([@tbulubas](https://github.com/tbulubas))
 
 # Pull Request
 Use the Cheatsheet here to add your name to the contributors:
